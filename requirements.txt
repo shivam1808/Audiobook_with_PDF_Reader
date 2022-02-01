@@ -1,0 +1,9 @@
+Pillow           
+PyMuPDF          
+pytesseract      
+pygame           
+gTTS             
+pysimplegui      
+tesseract        
+tesseract-ocr
+fitz
