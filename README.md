@@ -6,7 +6,7 @@ Reading stories or essays or any text can be arduous, however an audio reading o
 
 #### Project Demo
 
-![project flow]()
+![project flow](https://raw.githubusercontent.com/shivam1808/Audiobook_with_PDF_Reader/main/Audiobook_gui.png)
 
 #### Prerequisite software
 The software libraries required to run this code can be installed using:
